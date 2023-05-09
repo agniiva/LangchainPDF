@@ -1,3 +1,4 @@
+pip install --upgrade pip
 pip install -U openai pinecone-client flask flask-cors python-dotenv
 
 import os
